@@ -1,0 +1,64 @@
+/* ICI HAUT DE PAGE*/
+#titreBienvenue{
+    border: solid;
+    border-color: transparent transparent #6AADF2;
+    
+}
+
+#titreBienvenue img{
+    height: 100px;
+    width: 100px;
+}
+
+
+#titreBienvenue .alignementLogoTitre{
+    color: #6AADF2;
+    display: flex;
+    
+}
+
+#titreBienvenue .alignementLogoTitre .titreH1{
+    font-size: 25px;
+    padding: 15px;
+    margin-left: 20%;
+      
+}
+
+/* * ici on fait la partie notreEquipe */
+#notreEquipe .astronauteAndText{
+    display: flex;
+
+      
+}
+
+#notreEquipe .astronauteAndText .photo{
+    border: solid; color: #6AADF2;
+    padding: 20px 20px 0px;
+    margin: 0px 30px;
+    background-color: #6AADF2;
+}
+
+#notreEquipe .astronauteAndText .photo p{
+    margin-left: 0%;
+    color: black;
+
+}
+
+#notreEquipe h3{
+    margin-left: 30px;
+    color: #1771CF;
+    font-family: cursive;
+    
+}
+
+
+#notreEquipe p{
+    margin-left: 50px;
+
+}
+
+
+/*ice texte nos valeurs*/
+
+
+
